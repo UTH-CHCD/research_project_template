@@ -27,6 +27,7 @@ Try to avoid people's names as subdirectories, as that can lead to later confusi
 |   |   |-- subproject01
 |   |   |-- subproject02
 |   |-- pipeline
+|   |-- ad-hoc
 |-- documentation/
 |   |-- dictionaries
 |   |-- logic
